@@ -1,3 +1,5 @@
-module github.com/p-le/go-practical
+module github.com/p-le/romanserver
 
 go 1.12
+
+require github.com/gorilla/mux v1.7.3 // indirect
